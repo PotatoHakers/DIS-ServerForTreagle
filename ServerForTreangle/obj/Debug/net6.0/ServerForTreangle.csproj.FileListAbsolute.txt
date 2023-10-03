@@ -1,0 +1,14 @@
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\bin\Debug\net6.0\ServerForTreangle.exe
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\bin\Debug\net6.0\ServerForTreangle.deps.json
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\bin\Debug\net6.0\ServerForTreangle.runtimeconfig.json
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\bin\Debug\net6.0\ServerForTreangle.dll
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\bin\Debug\net6.0\ServerForTreangle.pdb
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ServerForTreangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ServerForTreangle.AssemblyInfoInputs.cache
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ServerForTreangle.AssemblyInfo.cs
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ServerForTreangle.csproj.CoreCompileInputs.cache
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ServerForTreangle.dll
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\refint\ServerForTreangle.dll
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ServerForTreangle.pdb
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ServerForTreangle.genruntimeconfig.cache
+C:\Users\mix123\source\repos\ServerForTreangle\ServerForTreangle\obj\Debug\net6.0\ref\ServerForTreangle.dll
